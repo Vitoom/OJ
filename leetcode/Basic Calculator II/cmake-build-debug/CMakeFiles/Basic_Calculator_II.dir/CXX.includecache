@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vito/Seafile/Repository/research/Git/OJ/leetcode/Basic Calculator II/main.cpp
+iostream
+-
+string
+-
+stack
+-
+vector
+-
+map
+-
+algorithm
+-
+climits
+-
+
