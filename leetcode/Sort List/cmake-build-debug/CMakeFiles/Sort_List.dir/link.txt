@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Sort_List.dir/main.cpp.o  -o Sort_List 
